@@ -47,7 +47,7 @@ Use NLP to Classify Reviews if its a POSITIVE or a NEGATIVE.
 
 ![eval after Optuna LR](https://github.com/user-attachments/assets/182b7feb-7a6a-46eb-9542-34cb761720c1)
 
-**Ensemble Method for the SVM and Logistic Regression Model**
+**Ensemble Method for the Base SVM and Logistic Regression Model because the base model performed better**
 
 ![Ensembled SVM and LR](https://github.com/user-attachments/assets/103093ed-a3c2-44dd-8a55-2cc4bd2e5b0d)
 
